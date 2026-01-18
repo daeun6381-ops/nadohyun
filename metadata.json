@@ -1,0 +1,7 @@
+{
+  "name": "모멘텀 - 습관 스테이킹 MVP",
+  "description": "목표에 돈을 걸어 동기를 부여하고 습관을 형성하는 앱입니다. 모든 데이터는 로컬에 저장됩니다.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
